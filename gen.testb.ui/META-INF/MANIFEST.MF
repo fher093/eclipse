@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: gen.testb.ui
+Bundle-ManifestVersion: 2
+Bundle-Name: gen.testb.ui
+Bundle-Vendor: My Company
+Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: gen.testb.ui; singleton:=true
+Bundle-ActivationPolicy: lazy
+Require-Bundle: gen.testb,
+ gen.testb.ide,
+ TestB,
+ org.eclipse.xtext.ui,
+ org.eclipse.xtext.ui.shared,
+ org.eclipse.xtext.ui.codetemplates.ui,
+ org.eclipse.ui.editors;bundle-version="3.14.300",
+ org.eclipse.ui.ide;bundle-version="3.18.500",
+ org.eclipse.ui,
+ org.eclipse.compare,
+ org.eclipse.xtext.builder
+Import-Package: org.apache.log4j
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Export-Package: gen.testb.ui.internal,
+ gen.ui.quickfix,
+ gen.ui.contentassist
+Bundle-Activator: gen.testb.ui.internal.TestbActivator

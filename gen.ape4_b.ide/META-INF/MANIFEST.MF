@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: gen.ape4_b.ide
+Bundle-ManifestVersion: 2
+Bundle-Name: gen.ape4_b.ide
+Bundle-Vendor: My Company
+Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: gen.ape4_b.ide; singleton:=true
+Bundle-ActivationPolicy: lazy
+Require-Bundle: gen.ape4_b,
+ Ape4_B,
+ org.eclipse.xtext.ide,
+ org.eclipse.xtext.xbase.ide,
+ org.antlr.runtime;bundle-version="[3.2.0,3.2.1)"
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Export-Package: gen.ide.contentassist.antlr,
+ gen.ide.contentassist.antlr.internal

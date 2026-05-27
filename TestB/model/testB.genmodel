@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel"
+    modelDirectory="/TestB/src-gen" creationIcons="false" editDirectory="/TestB.edit/src-gen"
+    editorDirectory="/TestB.editor/src-gen" modelPluginID="TestB" modelName="TestB"
+    rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container" codeFormatting="true"
+    importerID="org.eclipse.emf.importer.ecore" complianceLevel="21.0" copyrightFields="false"
+    operationReflection="true" importOrganizing="true">
+  <foreignModel>testB.ecore</foreignModel>
+  <testsDirectory xsi:nil="true"/>
+  <genPackages prefix="TestB" disposableProviderFactory="true" ecorePackage="testB.ecore#/">
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="testB.ecore#//TipoCalificacion">
+      <genEnumLiterals ecoreEnumLiteral="testB.ecore#//TipoCalificacion/APE"/>
+      <genEnumLiterals ecoreEnumLiteral="testB.ecore#//TipoCalificacion/ACD"/>
+      <genEnumLiterals ecoreEnumLiteral="testB.ecore#//TipoCalificacion/AA"/>
+    </genEnums>
+    <genClasses ecoreClass="testB.ecore#//Principal">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute testB.ecore#//Principal/name"/>
+      <genFeatures children="true" createChild="true" propertySortChoices="true" ecoreFeature="ecore:EReference testB.ecore#//Principal/materia"/>
+      <genFeatures children="true" createChild="true" propertySortChoices="true" ecoreFeature="ecore:EReference testB.ecore#//Principal/docente"/>
+    </genClasses>
+    <genClasses ecoreClass="testB.ecore#//Materia">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute testB.ecore#//Materia/name"/>
+      <genFeatures children="true" createChild="true" propertySortChoices="true" ecoreFeature="ecore:EReference testB.ecore#//Materia/tarea"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference testB.ecore#//Materia/dictada"/>
+    </genClasses>
+    <genClasses ecoreClass="testB.ecore#//Tarea">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute testB.ecore#//Tarea/name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute testB.ecore#//Tarea/tipoC"/>
+    </genClasses>
+    <genClasses ecoreClass="testB.ecore#//Docente">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute testB.ecore#//Docente/name"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference testB.ecore#//Docente/dicta"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

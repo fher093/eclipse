@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="testB" nsURI="http://www.example.org/testB" nsPrefix="testB">
+  <eClassifiers xsi:type="ecore:EClass" name="Principal">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="materia" lowerBound="1"
+        upperBound="-1" eType="#//Materia" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="docente" upperBound="-1"
+        eType="#//Docente" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Materia">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="tarea" lowerBound="1" upperBound="-1"
+        eType="#//Tarea" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="dictada" lowerBound="1"
+        eType="#//Docente"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Tarea">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="tipoC" eType="#//TipoCalificacion"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Docente">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="dicta" lowerBound="1" upperBound="3"
+        eType="#//Materia"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="TipoCalificacion">
+    <eLiterals name="APE"/>
+    <eLiterals name="ACD" value="1"/>
+    <eLiterals name="AA" value="2"/>
+  </eClassifiers>
+</ecore:EPackage>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel"
+    modelDirectory="/Ape4_B/src-gen" creationIcons="false" editDirectory="/Ape4_B.edit/src-gen"
+    editorDirectory="/Ape4_B.editor/src-gen" modelPluginID="Ape4_B" modelName="Ape4_B"
+    rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container" codeFormatting="true"
+    importerID="org.eclipse.emf.importer.ecore" complianceLevel="21.0" copyrightFields="false"
+    operationReflection="true" importOrganizing="true">
+  <foreignModel>ape4_B.ecore</foreignModel>
+  <testsDirectory xsi:nil="true"/>
+  <genPackages prefix="Ape4_B" disposableProviderFactory="true" ecorePackage="ape4_B.ecore#/">
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ape4_B.ecore#//TipoDato">
+      <genEnumLiterals ecoreEnumLiteral="ape4_B.ecore#//TipoDato/STRING"/>
+      <genEnumLiterals ecoreEnumLiteral="ape4_B.ecore#//TipoDato/DOUBLE"/>
+      <genEnumLiterals ecoreEnumLiteral="ape4_B.ecore#//TipoDato/INTEGER"/>
+      <genEnumLiterals ecoreEnumLiteral="ape4_B.ecore#//TipoDato/BOOLEAN"/>
+      <genEnumLiterals ecoreEnumLiteral="ape4_B.ecore#//TipoDato/TIME"/>
+      <genEnumLiterals ecoreEnumLiteral="ape4_B.ecore#//TipoDato/DATE"/>
+    </genEnums>
+    <genClasses ecoreClass="ape4_B.ecore#//Principal">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ape4_B.ecore#//Principal/name"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ape4_B.ecore#//Principal/posee"/>
+    </genClasses>
+    <genClasses ecoreClass="ape4_B.ecore#//Entidad">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ape4_B.ecore#//Entidad/name"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ape4_B.ecore#//Entidad/contiene"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference ape4_B.ecore#//Entidad/redirige"/>
+    </genClasses>
+    <genClasses ecoreClass="ape4_B.ecore#//Atributo">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ape4_B.ecore#//Atributo/name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ape4_B.ecore#//Atributo/longitud"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ape4_B.ecore#//Atributo/tipoDato"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ape4_B.ecore#//Atributo/requerido"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>
