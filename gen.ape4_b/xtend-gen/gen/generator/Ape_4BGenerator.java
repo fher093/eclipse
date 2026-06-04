@@ -3,19 +3,10 @@
  */
 package gen.generator;
 
-import ape4_B.Atributo;
-import ape4_B.Entidad;
-import ape4_B.Principal;
-import com.google.common.collect.Iterables;
-import org.eclipse.emf.common.util.EList;
-import org.eclipse.emf.ecore.EObject;
 import org.eclipse.emf.ecore.resource.Resource;
-import org.eclipse.xtend2.lib.StringConcatenation;
 import org.eclipse.xtext.generator.AbstractGenerator;
 import org.eclipse.xtext.generator.IFileSystemAccess2;
 import org.eclipse.xtext.generator.IGeneratorContext;
-import org.eclipse.xtext.xbase.lib.IteratorExtensions;
-import org.eclipse.xtext.xbase.lib.StringExtensions;
 
 /**
  * Generates code from your model files on save.
@@ -26,115 +17,28 @@ import org.eclipse.xtext.xbase.lib.StringExtensions;
 public class Ape_4BGenerator extends AbstractGenerator {
   @Override
   public void doGenerate(final Resource resource, final IFileSystemAccess2 fsa, final IGeneratorContext context) {
-    Iterable<Principal> _filter = Iterables.<Principal>filter(IteratorExtensions.<EObject>toIterable(resource.getAllContents()), Principal.class);
-    for (final Principal principal : _filter) {
-      {
-        String _name = principal.getName();
-        String _plus = (_name + ".sql");
-        fsa.generateFile(_plus, 
-          this.genereaSQL(principal));
-        EList<Entidad> _posee = principal.getPosee();
-        for (final Entidad entidad : _posee) {
-          String _plus_1 = (entidad + ".html");
-          fsa.generateFile(_plus_1, this.generaEntidad(entidad));
-        }
-      }
-    }
+    throw new Error("Unresolved compilation problems:"
+      + "\nThe method or field Principal is undefined"
+      + "\nThe method or field name is undefined for the type EObject"
+      + "\nThe method or field posee is undefined for the type EObject"
+      + "\nThe method genereaSQL(Principal) from the type Ape_4BGenerator refers to the missing type Principal"
+      + "\nThe method generaEntidad(Entidad) from the type Ape_4BGenerator refers to the missing type Entidad"
+      + "\n+ cannot be resolved"
+      + "\n+ cannot be resolved");
   }
 
-  public CharSequence generaEntidad(final Entidad e) {
-    StringConcatenation _builder = new StringConcatenation();
-    _builder.append("<html>  ");
-    _builder.newLine();
-    _builder.append("<head> ");
-    _builder.newLine();
-    _builder.append("\t");
-    _builder.append("<title>");
-    String _name = e.getName();
-    _builder.append(_name, "\t");
-    _builder.append("</title>   ");
-    _builder.newLineIfNotEmpty();
-    _builder.append("\t");
-    _builder.append("<link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB\" crossorigin=\"anonymous\"> ");
-    _builder.newLine();
-    _builder.append("\t ");
-    _builder.newLine();
-    _builder.append("</head> ");
-    _builder.newLine();
-    _builder.newLine();
-    _builder.append("<body>  ");
-    _builder.newLine();
-    _builder.newLine();
-    _builder.append("\t");
-    _builder.append("<h1>");
-    String _name_1 = e.getName();
-    _builder.append(_name_1, "\t");
-    _builder.append(" </h1> ");
-    _builder.newLineIfNotEmpty();
-    _builder.append("\t");
-    _builder.append("<form>");
-    _builder.newLine();
-    {
-      EList<Atributo> _contiene = e.getContiene();
-      for(final Atributo a : _contiene) {
-        _builder.append("\t");
-        _builder.append("<label>");
-        String _firstUpper = StringExtensions.toFirstUpper(a.getName());
-        _builder.append(_firstUpper, "\t");
-        _builder.append("</label> ");
-        _builder.newLineIfNotEmpty();
-        _builder.append("\t");
-        _builder.append("<input class=\'form-control\' ");
-        _builder.newLine();
-        _builder.append("\t");
-        _builder.append("\t\t");
-        _builder.append("type =\'");
-        String _tipoHTML = this.tipoHTML(a.getTipoDato().getLiteral());
-        _builder.append(_tipoHTML, "\t\t\t");
-        _builder.append("\' ");
-        _builder.newLineIfNotEmpty();
-        _builder.append("\t");
-        _builder.append("\t\t");
-        _builder.append("name=\'");
-        String _lowerCase = a.getName().toLowerCase();
-        _builder.append(_lowerCase, "\t\t\t");
-        _builder.append("\'");
-        _builder.newLineIfNotEmpty();
-        _builder.append("\t");
-        {
-          boolean _isRequerido = a.isRequerido();
-          if (_isRequerido) {
-            _builder.append(" required ");
-          }
-        }
-        _builder.append(">  ");
-        _builder.newLineIfNotEmpty();
-      }
-    }
-    _builder.append("\t");
-    _builder.append("<input type=\"submit\" value=\'Aceptar\'>");
-    _builder.newLine();
-    _builder.append("\t");
-    _builder.append("<button>Limpiar</button>");
-    _builder.newLine();
-    _builder.append("\t");
-    _builder.append("</form>");
-    _builder.newLine();
-    _builder.newLine();
-    _builder.newLine();
-    _builder.append("\t");
-    _builder.append("<script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI\" crossorigin=\"anonymous\"></script>");
-    _builder.newLine();
-    _builder.newLine();
-    _builder.append("</body> ");
-    _builder.newLine();
-    _builder.newLine();
-    _builder.newLine();
-    _builder.append("</html>");
-    _builder.newLine();
-    _builder.newLine();
-    _builder.newLine();
-    return _builder;
+  public CharSequence generaEntidad(final /* Entidad */Object e) {
+    throw new Error("Unresolved compilation problems:"
+      + "\nname cannot be resolved"
+      + "\nname cannot be resolved"
+      + "\ncontiene cannot be resolved"
+      + "\nname cannot be resolved"
+      + "\ntoFirstUpper cannot be resolved"
+      + "\ntipoDato cannot be resolved"
+      + "\nliteral cannot be resolved"
+      + "\nname cannot be resolved"
+      + "\ntoLowerCase cannot be resolved"
+      + "\nrequerido cannot be resolved");
   }
 
   public String tipoHTML(final String tipo) {
@@ -156,55 +60,19 @@ public class Ape_4BGenerator extends AbstractGenerator {
     return null;
   }
 
-  public CharSequence genereaSQL(final Principal p) {
-    StringConcatenation _builder = new StringConcatenation();
-    _builder.append("CREATE DATABASE ");
-    String _upperCase = p.getName().toUpperCase();
-    _builder.append(_upperCase);
-    _builder.append("; ");
-    _builder.newLineIfNotEmpty();
-    _builder.append("use ");
-    String _upperCase_1 = p.getName().toUpperCase();
-    _builder.append(_upperCase_1);
-    _builder.append(";  ");
-    _builder.newLineIfNotEmpty();
-    _builder.newLine();
-    {
-      EList<Entidad> _posee = p.getPosee();
-      for(final Entidad e : _posee) {
-        _builder.append("CREATE TABLE ");
-        String _upperCase_2 = e.getName().toUpperCase();
-        _builder.append(_upperCase_2);
-        _builder.append("( ");
-        _builder.newLineIfNotEmpty();
-        _builder.append("\t");
-        _builder.append("//ATRIBUTOS ");
-        _builder.newLine();
-        {
-          EList<Atributo> _contiene = e.getContiene();
-          boolean _hasElements = false;
-          for(final Atributo a : _contiene) {
-            if (!_hasElements) {
-              _hasElements = true;
-            } else {
-              _builder.appendImmediate(",", "\t");
-            }
-            _builder.append("\t");
-            String _upperCase_3 = a.getName().toUpperCase();
-            _builder.append(_upperCase_3, "\t");
-            _builder.append(" ");
-            String _literal = a.getTipoDato().getLiteral();
-            _builder.append(_literal, "\t");
-            _builder.newLineIfNotEmpty();
-          }
-        }
-        _builder.append(");");
-        _builder.newLine();
-        _builder.append("  ");
-        _builder.newLine();
-      }
-    }
-    _builder.newLine();
-    return _builder;
+  public CharSequence genereaSQL(final /* Principal */Object p) {
+    throw new Error("Unresolved compilation problems:"
+      + "\nname cannot be resolved"
+      + "\ntoUpperCase cannot be resolved"
+      + "\nname cannot be resolved"
+      + "\ntoUpperCase cannot be resolved"
+      + "\nposee cannot be resolved"
+      + "\nname cannot be resolved"
+      + "\ntoUpperCase cannot be resolved"
+      + "\ncontiene cannot be resolved"
+      + "\nname cannot be resolved"
+      + "\ntoUpperCase cannot be resolved"
+      + "\ntipoDato cannot be resolved"
+      + "\nliteral cannot be resolved");
   }
 }

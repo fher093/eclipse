@@ -7975,3 +7975,1619 @@ org.eclipse.swt.SWTException: Widget is disposed
 !ENTRY org.apache.log4j 4 0 2026-05-21 11:41:27.154
 !MESSAGE org.eclipse.ocl.pivot.internal.resource.StandaloneProjectMap  - Conflicting access to 'platform:/resource/org.eclipse.emf.ecore/model/Ecore.ecore' or 'platform:/plugin/org.eclipse.emf.ecore/model/Ecore.ecore' already accessed as 'http://www.eclipse.org/emf/2002/Ecore'
 
+!SESSION 2026-05-28 10:23:04.642 -----------------------------------------------
+eclipse.buildId=4.39.0.20260305-0817
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_EC
+Framework arguments:  -product org.eclipse.epp.package.modeling.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.modeling.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-05-28 10:24:48.584
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\usuario'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2026-06-03 21:13:40.969 -----------------------------------------------
+eclipse.buildId=4.39.0.20260305-0817
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_EC
+Framework arguments:  -product org.eclipse.epp.package.modeling.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.modeling.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-06-03 21:14:49.780
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\usuario'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.132
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.133
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.133
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.342
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.343
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.343
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.352
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.354
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.354
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.363
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.364
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.364
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.366
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.367
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.367
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.381
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.392
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.399
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.404
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.412
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.420
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.428
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.436
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.446
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.452
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.461
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.468
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.476
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.484
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.492
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.500
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.507
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.516
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.523
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.532
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.540
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.548
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.557
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.565
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.572
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.581
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.588
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.597
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.606
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.612
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.620
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:34:22.628
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.351
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.352
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.352
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.645
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.646
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.646
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.656
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.656
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.657
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.667
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.667
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.668
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.670
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.671
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.671
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.680
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.680
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.681
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.690
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.691
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.692
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.693
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.693
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.693
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.701
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.712
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.719
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.724
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.732
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.740
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.748
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.765
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.772
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.780
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.828
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.844
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.860
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.869
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.876
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.884
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.892
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.900
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.908
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.916
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.924
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.932
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.940
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.947
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.956
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.964
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.973
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.979
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.988
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:16.996
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.052
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.085
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.092
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.140
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.164
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.172
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.181
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.188
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.196
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.204
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.212
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.220
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.228
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.236
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.244
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.252
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.260
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.268
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.284
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.382
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.413
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.421
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.429
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.437
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.445
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.452
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.460
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.468
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.477
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.484
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.493
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.517
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:35:17.533
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.791
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.792
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.793
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.877
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.877
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.878
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.891
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.892
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.892
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.895
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.895
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.896
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.907
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.907
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.908
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.909
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.909
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.910
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.917
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.917
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.918
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.926
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.927
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.927
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.934
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.946
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.956
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.964
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.972
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.979
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.988
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:46.996
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.003
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.010
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.020
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.027
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.035
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.044
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.052
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.059
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.067
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.076
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.084
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.091
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.100
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.108
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.116
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.124
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.132
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.140
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.148
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.165
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.172
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.180
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.188
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.204
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.220
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.869
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.916
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.925
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.934
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.941
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.948
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.957
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.964
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-03 23:36:47.980
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.ui 4 0 2026-06-04 01:42:45.597
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.emf.transaction.impl.TransactionChangeRecorder.setValidateEditSupport(org.eclipse.emf.transaction.util.ValidateEditSupport)" because the return value of "org.eclipse.emf.transaction.impl.InternalTransactionalEditingDomain.getChangeRecorder()" is null
+	at org.eclipse.emf.transaction.impl.TransactionImpl.start(TransactionImpl.java:252)
+	at org.eclipse.emf.transaction.impl.TransactionalEditingDomainImpl.startTransaction(TransactionalEditingDomainImpl.java:413)
+	at org.eclipse.emf.transaction.impl.TransactionalEditingDomainImpl.runExclusive(TransactionalEditingDomainImpl.java:310)
+	at org.eclipse.gmf.runtime.diagram.ui.editparts.GraphicalEditPart.getCommand(GraphicalEditPart.java:478)
+	at org.eclipse.sirius.diagram.ui.edit.api.part.AbstractDiagramListEditPart.getCommand(AbstractDiagramListEditPart.java:69)
+	at org.eclipse.gmf.runtime.diagram.ui.actions.internal.ArrangeAction.getCommand(ArrangeAction.java:90)
+	at org.eclipse.gmf.runtime.diagram.ui.actions.DiagramAction.calculateEnabled(DiagramAction.java:146)
+	at org.eclipse.gmf.runtime.diagram.ui.actions.DiagramAction.internalRefresh(DiagramAction.java:136)
+	at org.eclipse.gmf.runtime.diagram.ui.actions.DiagramAction.refresh(DiagramAction.java:129)
+	at org.eclipse.gmf.runtime.common.ui.action.AbstractActionHandler.selectionChanged(AbstractActionHandler.java:388)
+	at org.eclipse.gmf.runtime.diagram.ui.parts.DiagramGraphicalViewer.flushSelectionEvents(DiagramGraphicalViewer.java:257)
+	at org.eclipse.gmf.runtime.diagram.ui.parts.DiagramGraphicalViewer$2.run(DiagramGraphicalViewer.java:270)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4122)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1051)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:684)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:185)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:615)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:563)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1415)
+
+!ENTRY org.eclipse.emf.codegen.ecore 2 0 2026-06-04 01:43:40.615
+!MESSAGE A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/modeloPrueba)[275]: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:743)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:660)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:528)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:516)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:216)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+!SUBENTRY 1 org.eclipse.core.resources 4 275 2026-06-04 01:43:40.615
+!MESSAGE A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+!STACK 0
+java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:743)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:660)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:528)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:516)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:216)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.emf.ecoretools.design 4 4 2026-06-04 01:43:40.644
+!MESSAGE InvocationTargetException
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:134)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+Caused by: org.eclipse.core.internal.resources.ResourceException: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1471)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1446)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:224)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	... 1 more
+Caused by: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 12 more
+Root exception:
+org.eclipse.core.internal.resources.ResourceException(/modeloPrueba)[275]: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1471)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1446)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:224)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.emf.codegen.ecore 2 0 2026-06-04 01:46:58.336
+!MESSAGE A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/modeloPrueba)[275]: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:743)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:660)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:528)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:516)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:216)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+!SUBENTRY 1 org.eclipse.core.resources 4 275 2026-06-04 01:46:58.336
+!MESSAGE A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+!STACK 0
+java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:743)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:660)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:528)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:516)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:216)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.emf.ecoretools.design 4 4 2026-06-04 01:46:58.372
+!MESSAGE InvocationTargetException
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:134)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+Caused by: org.eclipse.core.internal.resources.ResourceException: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1471)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1446)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:224)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	... 1 more
+Caused by: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 12 more
+Root exception:
+org.eclipse.core.internal.resources.ResourceException(/modeloPrueba)[275]: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1471)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1446)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:224)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.emf.codegen.ecore 2 0 2026-06-04 01:47:32.857
+!MESSAGE A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/modeloPrueba)[275]: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:743)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:660)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:528)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:516)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:216)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+!SUBENTRY 1 org.eclipse.core.resources 4 275 2026-06-04 01:47:32.857
+!MESSAGE A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+!STACK 0
+java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:743)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:660)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:528)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:516)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:216)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.emf.ecoretools.design 4 4 2026-06-04 01:47:32.892
+!MESSAGE InvocationTargetException
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:134)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+Caused by: org.eclipse.core.internal.resources.ResourceException: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1471)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1446)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:224)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	... 1 more
+Caused by: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 12 more
+Root exception:
+org.eclipse.core.internal.resources.ResourceException(/modeloPrueba)[275]: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1471)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1446)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:224)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.emf.codegen.ecore 2 0 2026-06-04 01:47:34.808
+!MESSAGE A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/modeloPrueba)[275]: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:743)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:660)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:528)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:516)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:216)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+!SUBENTRY 1 org.eclipse.core.resources 4 275 2026-06-04 01:47:34.808
+!MESSAGE A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+!STACK 0
+java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:743)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:660)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:528)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:516)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:216)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.emf.ecoretools.design 4 4 2026-06-04 01:47:34.840
+!MESSAGE InvocationTargetException
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:134)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+Caused by: org.eclipse.core.internal.resources.ResourceException: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1471)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1446)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:224)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	... 1 more
+Caused by: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 12 more
+Root exception:
+org.eclipse.core.internal.resources.ResourceException(/modeloPrueba)[275]: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1471)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1446)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:224)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.emf.codegen.ecore 2 0 2026-06-04 01:47:40.697
+!MESSAGE A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/modeloPrueba)[275]: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:743)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:660)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:528)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:516)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:216)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+!SUBENTRY 1 org.eclipse.core.resources 4 275 2026-06-04 01:47:40.697
+!MESSAGE A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+!STACK 0
+java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:743)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:660)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:528)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:516)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:216)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.emf.ecoretools.design 4 4 2026-06-04 01:47:40.730
+!MESSAGE InvocationTargetException
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:134)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+Caused by: org.eclipse.core.internal.resources.ResourceException: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1471)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1446)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:224)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	... 1 more
+Caused by: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 12 more
+Root exception:
+org.eclipse.core.internal.resources.ResourceException(/modeloPrueba)[275]: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1471)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1446)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:224)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.emf.codegen.ecore 2 0 2026-06-04 01:47:41.391
+!MESSAGE A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/modeloPrueba)[275]: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:743)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:660)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:528)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:516)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:216)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+!SUBENTRY 1 org.eclipse.core.resources 4 275 2026-06-04 01:47:41.391
+!MESSAGE A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+!STACK 0
+java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:743)
+	at org.eclipse.emf.codegen.ecore.Generator$EclipseHelper.createEMFProject(Generator.java:660)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:528)
+	at org.eclipse.emf.codegen.ecore.Generator.createEMFProject(Generator.java:516)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:216)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.emf.ecoretools.design 4 4 2026-06-04 01:47:41.417
+!MESSAGE InvocationTargetException
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:134)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+Caused by: org.eclipse.core.internal.resources.ResourceException: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1471)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1446)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:224)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	... 1 more
+Caused by: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 12 more
+Root exception:
+org.eclipse.core.internal.resources.ResourceException(/modeloPrueba)[275]: java.lang.Exception: A resource exists on disk with a different case: 'C:\Users\usuario\eclipse-workspace\ModeloPrueba'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:108)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:316)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:302)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1471)
+	at org.eclipse.emf.codegen.util.CodeGenUtil$EclipseUtil.findOrCreateContainer(CodeGenUtil.java:1446)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.modifyWorkspace(EcoreModelingProjectCreationOperation.java:224)
+	at org.eclipse.emf.ecoretools.design.ui.wizard.EcoreModelingProjectCreationOperation.execute(EcoreModelingProjectCreationOperation.java:142)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.540
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.542
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.542
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.600
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.601
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.601
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.611
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.612
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.613
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.622
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.622
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.623
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.624
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.624
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.625
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.633
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.635
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.635
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.644
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.644
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.645
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.655
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.655
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.656
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.657
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.666
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.674
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.681
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.688
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.695
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.704
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.711
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.719
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.728
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.736
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.744
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.752
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.760
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.817
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.823
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.831
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:22.840
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.104
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.136
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.240
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.248
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.256
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.264
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.272
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.288
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.416
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.425
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.625
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.633
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.640
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.649
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.657
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.664
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.673
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.680
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.688
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.696
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:23.704
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.714
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.715
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.715
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.816
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.817
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.817
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.834
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.835
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.836
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.848
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.849
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.849
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.861
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.862
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.862
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.865
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.876
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.885
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.893
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.896
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.904
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.912
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.919
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.928
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.936
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.944
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.951
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.959
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.967
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.976
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.983
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.991
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:34.999
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:35.007
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:35.016
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:35.023
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:35.032
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:35.039
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:35.056
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.027
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.027
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.028
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.170
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.171
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.171
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.186
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.186
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.187
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.204
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.205
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.205
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.216
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.217
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.217
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.226
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.238
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.239
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.247
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.255
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.264
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.272
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.279
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.288
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.296
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.304
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.311
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.319
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.328
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.336
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.344
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.352
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.359
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.367
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.376
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.384
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.393
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.399
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.408
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.416
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.424
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.433
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.441
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.448
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.457
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.464
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.472
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.480
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.488
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.496
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.504
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2026-06-04 01:53:38.512
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode

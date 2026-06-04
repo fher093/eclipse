@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: gen.mdefdllu
+Bundle-ManifestVersion: 2
+Bundle-Name: gen.mdefdllu
+Bundle-Vendor: My Company
+Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: gen.mdefdllu; singleton:=true
+Bundle-ActivationPolicy: lazy
+Require-Bundle: pruebaModelo,
+ org.eclipse.xtext,
+ org.eclipse.xtext.xbase,
+ org.eclipse.equinox.common;bundle-version="3.19.0",
+ org.eclipse.xtext.xbase.lib;bundle-version="2.42.0",
+ org.antlr.runtime;bundle-version="[3.2.0,3.2.1)"
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Export-Package: gen,
+ gen.validation,
+ gen.serializer,
+ gen.generator,
+ gen.scoping,
+ gen.formatting2,
+ gen.parser.antlr,
+ gen.services,
+ gen.parser.antlr.internal
+Import-Package: org.apache.log4j

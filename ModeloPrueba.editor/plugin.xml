@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated modeloPrueba -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="modeloPrueba.presentation.ModeloPruebaModelWizardID"
+            name="%_UI_ModeloPruebaModelWizard_label"
+            class="modeloPrueba.presentation.ModeloPruebaModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/ModeloPruebaModelFile.gif">
+         <description>%_UI_ModeloPruebaModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated modeloPrueba -->
+      <editor
+            id="modeloPrueba.presentation.ModeloPruebaEditorID"
+            name="%_UI_ModeloPruebaEditor_label"
+            icon="icons/full/obj16/ModeloPruebaModelFile.gif"
+            extensions="modeloprueba"
+            class="modeloPrueba.presentation.ModeloPruebaEditor"
+            contributorClass="modeloPrueba.presentation.ModeloPruebaActionBarContributor">
+      </editor>
+   </extension>
+
+</plugin>

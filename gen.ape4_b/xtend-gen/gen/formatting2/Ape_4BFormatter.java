@@ -3,13 +3,9 @@
  */
 package gen.formatting2;
 
-import ape4_B.Atributo;
-import ape4_B.Entidad;
-import ape4_B.Principal;
 import com.google.inject.Inject;
 import gen.services.Ape_4BGrammarAccess;
 import java.util.Arrays;
-import org.eclipse.emf.common.util.EList;
 import org.eclipse.emf.ecore.EObject;
 import org.eclipse.xtext.formatting2.AbstractFormatter2;
 import org.eclipse.xtext.formatting2.IFormattableDocument;
@@ -23,43 +19,38 @@ public class Ape_4BFormatter extends AbstractFormatter2 {
   @Extension
   private Ape_4BGrammarAccess _ape_4BGrammarAccess;
 
-  protected void _format(final Principal principal, @Extension final IFormattableDocument document) {
-    EList<Entidad> _posee = principal.getPosee();
-    for (final Entidad entidad : _posee) {
-      document.<Entidad>format(entidad);
-    }
+  protected void _format(final /* Principal */Object principal, @Extension final IFormattableDocument document) {
+    throw new Error("Unresolved compilation problems:"
+      + "\nposee cannot be resolved"
+      + "\nformat cannot be resolved");
   }
 
-  protected void _format(final Entidad entidad, @Extension final IFormattableDocument document) {
-    EList<Atributo> _contiene = entidad.getContiene();
-    for (final Atributo atributo : _contiene) {
-      document.<Atributo>format(atributo);
-    }
+  protected void _format(final /* Entidad */Object entidad, @Extension final IFormattableDocument document) {
+    throw new Error("Unresolved compilation problems:"
+      + "\ncontiene cannot be resolved"
+      + "\nformat cannot be resolved");
   }
 
   @XbaseGenerated
-  public void format(final Object entidad, final IFormattableDocument document) {
-    if (entidad instanceof XtextResource) {
-      _format((XtextResource)entidad, document);
+  public void format(final Object principal, final IFormattableDocument document) {
+    if (principal instanceof XtextResource) {
+      _format((XtextResource)principal, document);
       return;
-    } else if (entidad instanceof Entidad) {
-      _format((Entidad)entidad, document);
+    } else if (principal instanceof EObject) {
+      _format((EObject)principal, document);
       return;
-    } else if (entidad instanceof Principal) {
-      _format((Principal)entidad, document);
-      return;
-    } else if (entidad instanceof EObject) {
-      _format((EObject)entidad, document);
-      return;
-    } else if (entidad == null) {
+    } else if (principal == null) {
       _format((Void)null, document);
       return;
-    } else if (entidad != null) {
-      _format(entidad, document);
+    } else if (principal != null) {
+      _format(principal, document);
+      return;
+    } else if (principal != null) {
+      _format(principal, document);
       return;
     } else {
       throw new IllegalArgumentException("Unhandled parameter types: " +
-        Arrays.<Object>asList(entidad, document).toString());
+        Arrays.<Object>asList(principal, document).toString());
     }
   }
 }
